@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 60859f15185b1474b8499f2be460d523
+timeCreated: 1492345103
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 0295_Inst3D
+    100002: 0296_Inst3D
+    100004: 0297_Inst3D
+    100006: 0298_Inst3D
+    100008: 0299_Inst3D
+    100010: 0300_Inst3D
+    100012: 0301_Inst3D
+    100014: 0305_Inst3D
+    100016: 0306_Inst3D
+    100018: 0309_Inst3D
+    100020: 0310_Inst3D
+    100022: 0311_Inst3D
+    100024: 0312_Inst3D
+    100026: 0313_Inst3D
+    100028: 0314_Inst3D
+    100030: 0315_Inst3D
+    100032: 0316_Inst3D
+    100034: 0317_Inst3D
+    100036: 0318_Inst3D
+    100038: 0319_Inst3D
+    100040: 0320_Inst3D
+    100042: 0321_Inst3D
+    100044: 0322_Inst3D
+    100046: 0324_Inst3D
+    100048: 0325_RefRep.2307.1
+    100050: 0326_RefRep.2308.1
+    100052: //RootNode
+    400000: 0295_Inst3D
+    400002: 0296_Inst3D
+    400004: 0297_Inst3D
+    400006: 0298_Inst3D
+    400008: 0299_Inst3D
+    400010: 0300_Inst3D
+    400012: 0301_Inst3D
+    400014: 0305_Inst3D
+    400016: 0306_Inst3D
+    400018: 0309_Inst3D
+    400020: 0310_Inst3D
+    400022: 0311_Inst3D
+    400024: 0312_Inst3D
+    400026: 0313_Inst3D
+    400028: 0314_Inst3D
+    400030: 0315_Inst3D
+    400032: 0316_Inst3D
+    400034: 0317_Inst3D
+    400036: 0318_Inst3D
+    400038: 0319_Inst3D
+    400040: 0320_Inst3D
+    400042: 0321_Inst3D
+    400044: 0322_Inst3D
+    400046: 0324_Inst3D
+    400048: 0325_RefRep.2307.1
+    400050: 0326_RefRep.2308.1
+    400052: //RootNode
+    2300000: 0295_Inst3D
+    2300002: 0296_Inst3D
+    2300004: 0297_Inst3D
+    2300006: 0298_Inst3D
+    2300008: 0299_Inst3D
+    2300010: 0300_Inst3D
+    2300012: 0301_Inst3D
+    2300014: 0305_Inst3D
+    2300016: 0306_Inst3D
+    2300018: 0309_Inst3D
+    2300020: 0310_Inst3D
+    2300022: 0311_Inst3D
+    2300024: 0312_Inst3D
+    2300026: 0313_Inst3D
+    2300028: 0314_Inst3D
+    2300030: 0315_Inst3D
+    2300032: 0316_Inst3D
+    2300034: 0317_Inst3D
+    2300036: 0318_Inst3D
+    2300038: 0319_Inst3D
+    2300040: 0320_Inst3D
+    2300042: 0321_Inst3D
+    2300044: 0322_Inst3D
+    2300046: 0324_Inst3D
+    2300048: 0325_RefRep.2307.1
+    2300050: 0326_RefRep.2308.1
+    3300000: 0295_Inst3D
+    3300002: 0296_Inst3D
+    3300004: 0297_Inst3D
+    3300006: 0298_Inst3D
+    3300008: 0299_Inst3D
+    3300010: 0300_Inst3D
+    3300012: 0301_Inst3D
+    3300014: 0305_Inst3D
+    3300016: 0306_Inst3D
+    3300018: 0309_Inst3D
+    3300020: 0310_Inst3D
+    3300022: 0311_Inst3D
+    3300024: 0312_Inst3D
+    3300026: 0313_Inst3D
+    3300028: 0314_Inst3D
+    3300030: 0315_Inst3D
+    3300032: 0316_Inst3D
+    3300034: 0317_Inst3D
+    3300036: 0318_Inst3D
+    3300038: 0319_Inst3D
+    3300040: 0320_Inst3D
+    3300042: 0321_Inst3D
+    3300044: 0322_Inst3D
+    3300046: 0324_Inst3D
+    3300048: 0325_RefRep.2307.1
+    3300050: 0326_RefRep.2308.1
+    4300000: 0295_Inst3D
+    4300002: 0296_Inst3D
+    4300004: 0297_Inst3D
+    4300006: 0298_Inst3D
+    4300008: 0299_Inst3D
+    4300010: 0300_Inst3D
+    4300012: 0301_Inst3D
+    4300014: 0305_Inst3D
+    4300016: 0306_Inst3D
+    4300018: 0309_Inst3D
+    4300020: 0310_Inst3D
+    4300022: 0311_Inst3D
+    4300024: 0312_Inst3D
+    4300026: 0313_Inst3D
+    4300028: 0314_Inst3D
+    4300030: 0315_Inst3D
+    4300032: 0316_Inst3D
+    4300034: 0317_Inst3D
+    4300036: 0318_Inst3D
+    4300038: 0319_Inst3D
+    4300040: 0320_Inst3D
+    4300042: 0321_Inst3D
+    4300044: 0322_Inst3D
+    4300046: 0324_Inst3D
+    4300048: 0325_RefRep.2307.1
+    4300050: 0326_RefRep.2308.1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

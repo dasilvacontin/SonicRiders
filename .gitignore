@@ -1,0 +1,37 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+/[Bb]uilds/
+/[Ll]ibrary/
+sysinfo.txt
+*.stackdump
+/Assets/AssetStoreTools*
+*.apk
+*.app
+*.unitypackage
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+[Ee]xported[Oo]bj/
+.vs/
+/*.userprefs
+/*.csproj
+/*.pidb
+*.pidb.meta
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+.consulo/
+/*.tmp
+/*.svd
+
+spatial.log
+spatialos_worker_packages.json
+build/
+logs/
