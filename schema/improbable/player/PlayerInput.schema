@@ -1,0 +1,13 @@
+package improbable.core;
+
+type Joystick {
+  float x_axis = 1;
+  float y_axis = 2;
+}
+
+component PlayerInput {
+    id = 1004;
+    Joystick left_joystick = 1;
+    Joystick right_joystick = 2;
+    bool jump_button = 3;
+}
